@@ -1,0 +1,33 @@
+#menuBar{
+	height:700px;
+	font-size:18px;
+	color:#fff;
+	border:1px solid #dcdcdc;
+}
+.list-group{
+	height:40px;
+	width:100%;
+}
+.list-group .list-group-item{
+	background-color:#fff;
+	border-bottom:1px solid #ccc;
+}
+.list-group .list-group-item a{
+	color:#333;
+	padding-left:30px;
+	height:40px;
+	line-height:40px;
+	display:block;
+	font-size:16px;
+	text-decoration: none;
+}
+.list-group .list-group-item ul li{
+	padding-left:30px;
+}
+.active{
+	background-color:#88aa89!important;
+}
+.active a{
+	color:#fff!important;
+}
+a:hover{text-decoration: none;}

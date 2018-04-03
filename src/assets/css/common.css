@@ -1,0 +1,22 @@
+*{margin:0;padding:0;}
+body{
+	font-size:14px;
+	background-color:#f9f9f9;
+	font-family: "微软雅黑";
+}
+.bz{
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -o-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  -khtml-box-sizing:border-box;
+  box-sizing:border-box;
+}
+img{ border:none;} 
+.clearfix:after {content: "\0020";display: block;height: 0; clear: both;}
+.clearfix {zoom: 1;}
+.fl{float:left;}
+.fr{float:right;}
+.container{
+	background-color:lightblue;
+}
